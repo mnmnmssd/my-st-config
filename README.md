@@ -1,0 +1,3 @@
+# This is my st config for ArchLinux
+
+# loading.....
